@@ -260,7 +260,7 @@ pre {
         margin-left: 25%;
     }
     .header {
-        margin: 50% 2em 0;
+        margin: 30% 2em 0;
         text-align: center;
     }
     .sidebar {
@@ -268,13 +268,18 @@ pre {
         top: 0;
         bottom: 0;
     }
+    img {
+        margin-top: 1rem;
+        width: 100px;
+        float: center;
+    }
 }
 
 .at-a-glance {
     img {
         margin-right: 1rem;
         width: 100px;
-        float: center;
+        float: left;
     }
     p {
         margin-top: 30;
