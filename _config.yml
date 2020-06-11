@@ -1,2 +1,6 @@
-name: Shweta Birajdar
-	markdown: kramdown
+permalink: pretty
+baseurl: ""
+markdown: kramdown
+exclude:
+  - .gitignore
+  - README.md
