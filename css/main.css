@@ -269,8 +269,9 @@ pre {
         bottom: 0;
     }
     img {
-        margin-top: 1rem;
-        width: 100px;
+        margin-top: 4rem;
+        margin-left: 25%
+        width: 250px;
         float: center;
     }
 }
