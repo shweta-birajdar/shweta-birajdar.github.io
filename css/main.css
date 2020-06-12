@@ -11,6 +11,7 @@ $color-dark-gray: #3C3C3C;
 $font-family-sans: 'Noto Sans', sans-serif;
 
 body {
+    background-color: #FDD9D6
     color: $color-dark-gray;
     font-family: $font-family-sans;
 }
@@ -102,7 +103,7 @@ pre {
 }
 
 .sidebar {
-    background: #F7DEEA;
+    background: #F88379;
     color: $color-dark-gray;
 }
 
