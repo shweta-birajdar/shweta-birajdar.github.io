@@ -92,7 +92,7 @@ pre {
 }
 
 #layout {
-    padding: 0;
+    padding: 1px;
 }
 
 .header {
@@ -144,7 +144,7 @@ pre {
 
 .nav-list {
     margin: 10px;
-    padding: 10;
+    padding: 5;
     list-style: none;
 }
 
@@ -180,7 +180,7 @@ pre {
 }
 
 .content {
-    padding: 2em 1em 0;
+    padding: 2em 1em 0.5em;
 }
 
 .post {
