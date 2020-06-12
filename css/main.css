@@ -138,7 +138,7 @@ pre {
 .blog-tagline {
     border-top: 1px solid $color-blue;
     font-weight: normal;
-    font-size: 28px;
+    font-size: 26px;
     padding-top: 10px;
 }
 
@@ -157,7 +157,7 @@ pre {
 .nav-item a {
     background: transparent;
     border: 2px solid $color-pink;
-    margin-top: 1em;
+    margin-top: 0.5em;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     font-size: 85%;
@@ -256,7 +256,7 @@ pre {
 @media (min-width: 48em) {
     .content {
         padding: 2em 3em 0;
-        margin-left: 15%;
+        margin-left: 25%;
     }
     .header {
         margin: 2rem 2em auto;
